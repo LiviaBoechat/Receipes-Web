@@ -1,0 +1,1 @@
+{"version":3,"file":"FavoritesDto.js","sourceRoot":"","sources":["../../src/controller/FavoritesDto.ts"],"names":[],"mappings":";;AAEA,MAAqB,YAAY;IAEtB,MAAM,CAAC,eAAe,CAAC,IAAS,EAAE,EAAU;QAC/C,OAAO;YACH,OAAO,EAAE,EAAE;YACX,OAAO,EAAE,IAAI,aAAJ,IAAI,uBAAJ,IAAI,CAAE,MAAM;YACrB,QAAQ,EAAE,IAAI,aAAJ,IAAI,uBAAJ,IAAI,CAAE,OAAO;SAC1B,CAAC;IACN,CAAC;CACJ;AATD,+BASC"}

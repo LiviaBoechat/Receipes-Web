@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb890c29.css",
+    "main.js": "/static/js/main.cf6a813d.js",
+    "static/media/PAPEL PAREDE FOLHAS.png": "/static/media/PAPEL PAREDE FOLHAS.a35aaf0770f3b82b65a0.png",
+    "static/media/mystoragerecipepng.png": "/static/media/mystoragerecipepng.83b3e6cfb605625b386b.png",
+    "static/media/shareIcon.svg": "/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/whiteHeartIcon.svg": "/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "index.html": "/index.html",
+    "main.cb890c29.css.map": "/static/css/main.cb890c29.css.map",
+    "main.cf6a813d.js.map": "/static/js/main.cf6a813d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb890c29.css",
+    "static/js/main.cf6a813d.js"
+  ]
+}

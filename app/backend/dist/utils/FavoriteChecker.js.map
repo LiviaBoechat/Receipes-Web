@@ -1,0 +1,1 @@
+{"version":3,"file":"FavoriteChecker.js","sourceRoot":"","sources":["../../src/utils/FavoriteChecker.ts"],"names":[],"mappings":";;AAEA,MAAqB,eAAe;IAE3B,MAAM,CAAC,aAAa,CAAC,EAAgB,EAAE,OAAsB,EAAE,QAAuB;QACzF,OAAO,EAAE,CAAC,IAAI,CAAC,IAAI,CAAC,EAAE,CAAC,IAAI,CAAC,OAAO,KAAK,OAAO,IAAI,IAAI,CAAC,QAAQ,KAAK,QAAQ,CAAC,CAAC;IACnF,CAAC;CAEF;AAND,kCAMC"}

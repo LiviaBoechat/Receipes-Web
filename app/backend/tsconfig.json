@@ -1,0 +1,14 @@
+  {
+    "compilerOptions": {
+      "target": "ES6",             // Versão do ECMAScript alvo
+      "module": "CommonJS",        // Sistema de módulo (CommonJS, ES6, etc.)
+      "outDir": "./dist",          // Diretório de saída para os arquivos compilados
+      "rootDir": "./src",          // Diretório raiz dos arquivos TypeScript
+      "strict": true,              // Ativar verificações rigorosas de tipos
+      "esModuleInterop": true,     // Habilitar interoperabilidade entre módulos ES6 e CommonJS
+      "sourceMap": true            // Gerar arquivos de mapa de origem
+    },
+    "include": ["src/**/*.ts", "src/config/supabaseClient.ts"],   // Arquivos a serem incluídos na compilação
+    "exclude": ["node_modules"]   // Diretórios a serem excluídos da compilação
+  }
+  
